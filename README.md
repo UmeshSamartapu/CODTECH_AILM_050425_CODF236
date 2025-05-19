@@ -170,8 +170,11 @@ Special thanks to CODTECH IT SOLUTIONS PVT. LTD. for the opportunity and guidanc
 
 ## Contact:
 🧑‍💼 Neela Santhosh Kumar
+
 📩 Hr@codtechitsolutions.com
+
 📞 +91 9848925128
+
 🌐 www.codtechitsolutions.com
 
 ## 📫 Let's Connect
