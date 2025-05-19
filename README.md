@@ -169,13 +169,10 @@ This project is open-source and available under the MIT License.
 Special thanks to CODTECH IT SOLUTIONS PVT. LTD. for the opportunity and guidance during this internship.
 
 ## Contact:
-🧑‍💼 Neela Santhosh Kumar
-
-📩 Hr@codtechitsolutions.com
-
-📞 +91 9848925128
-
-🌐 www.codtechitsolutions.com
+- 🧑‍💼 Neela Santhosh Kumar
+- 📩 Hr@codtechitsolutions.com
+- 📞 +91 9848925128
+- 🌐 www.codtechitsolutions.com
 
 ## 📫 Let's Connect
 
